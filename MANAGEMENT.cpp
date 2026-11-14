@@ -5,7 +5,7 @@ string n;
 int x =5;
 string arr[x]={"BOOK1","BOOK2","BOOK3","BOOK4","BOOK5"};
 
-//USAGE OF VECTORSSSSS;
+//USAGE OF VECTORSSSSS
 
 
 class management{
